@@ -1,5 +1,5 @@
 # Papyrus-RU
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download font now! 
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download font Papyrus-RU now! 
 
 ## Hello!
 #### Here you can absolutelly free download
@@ -8,14 +8,20 @@
 From my heart)
 #### The name of this font: "Papyrus-RU"
 presents formats:
+
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download .ttf 
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download .woff
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download .woff2
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download .otf
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download all formats (if you want)
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.woff.zip?raw=true">Download .woff
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.woff2.zip?raw=true">Download .woff2
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.otf.zip?raw=true">Download .otf
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Download all formats (if you want)
 
  and who it need - converted these formats to 
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download .CSS
+ 
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Download .CSS
 ## Enjoy it!
 # ---
 ## Добрый день! 
@@ -25,14 +31,20 @@ presents formats:
 изготовленными мной. 
 #### Шрифт называется: Papyrus-RU
 В архиве шрифт представлен в форматах: 
+
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить .ttf 
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить .woff
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить .woff2
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить .otf
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить весь архив (если вам это нужно)
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.woff.zip?raw=true">Загрузить .woff
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.woff2.zip?raw=true">Загрузить .woff2
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.otf.zip?raw=true">Загрузить .otf
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Загрузить весь архив (если вам это нужно)
 
 а также, для тех, кому необходимо
-<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить сконвертированный в  .CSS
+
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Загрузить сконвертированный в  .CSS
  
 #### Наслаждайтесь!
 
