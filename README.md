@@ -34,3 +34,4 @@ and who it need - converted these formats to .CSS
 ## https://github.com/Mc8Claud/Papirus-RU
 
 
+https://github.com/Mc8Claud/Papirus-RU/blob/master/images/Papyrus-RU.png
