@@ -19,7 +19,7 @@ presents formats:
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Download all formats (if you want)
 
- and who it need - converted these formats to .CSS
+###### and who it need - converted these formats to .CSS
  
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Download .CSS
@@ -43,7 +43,7 @@ presents formats:
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Загрузить весь архив (если вам это нужно)
 
-а также, для тех, кому необходимо сконвертированный в  .CSS
+###### а также, для тех, кому необходимо сконвертированный в  .CSS
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Загрузить  .CSS
  
