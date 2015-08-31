@@ -3,7 +3,7 @@
 
 * Hello!
 Here you can absolutelly free download
- very popularity and beautifully font  "Papyrus" with cyrillic letters 
+ very popular and beautifull font  "Papyrus" with cyrillic letters 
  (for Russian and Ucrainian languages) 
 From my heart)
 * The name of this font: "Papyrus-RU"
