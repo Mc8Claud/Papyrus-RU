@@ -1,6 +1,8 @@
 # Papyrus-RU
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Download font Papyrus-RU now! 
 
+<a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/images/texts.pdf?raw=true">See template text in font Papyrus-RU now! 
+
 ## Hello!
 #### Here you can absolutelly free download
  very popular and beautifull font  "Papyrus" with cyrillic letters 
@@ -55,3 +57,4 @@ presents formats:
 
 
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/Papyrus-RU.png"/>
+<img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/text.pdf"/>
