@@ -27,7 +27,8 @@ presents formats:
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Download .CSS
 
-####Good news for those who use plagin <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">"Font Changer" for Google Chrome####
+####Good news for those who use plagin####
+<a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">"Font Changer" for Google Chrome####
 
 ####Specially for you I have added all characters from the iconic font and CSS toolkit "Awesome" to font "Papyrus-RU", this will allow you to enjoy the beauty and correct view of an infinite number of sites.####
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-Awesome.ttf.zip?raw=true">Download Papyrus-RU-Awesome! 
@@ -57,7 +58,8 @@ presents formats:
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Загрузить  .CSS
  
-####Хорошая новость для тех кто использует расширение <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">Font Changer для Google Chrome
+####Хорошая новость для тех кто использует расширение####
+ <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">Font Changer для Google Chrome
 
 ####Специально для вас я добавил содержание  шрифта иконок "Awesome" в шрифт Papyrus-RU, это позволит вам наслаждаться красотой и корректным видом бесконечного множества сайтов.####
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-Awesome.ttf.zip?raw=true">Загрузить Papyrus-RU-Awesome! 
