@@ -71,7 +71,7 @@ presents formats:
 ## <a href="https://github.com/Mc8Claud/Papirus-RU">Alex Mc8Claud
 
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/Papyrus-RU.png"/>
-<a href="http://fontawesome.io/" title="_blank">Iconic font and CSS toolkit AWESOME
+<a href="http://fontawesome.io/" target="_blank">Iconic font and CSS toolkit AWESOME
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/font-awesome.jpg"/>
 
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/texts.jpg"/>
