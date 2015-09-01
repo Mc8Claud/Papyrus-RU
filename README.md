@@ -71,4 +71,5 @@ presents formats:
 ## <a href="https://github.com/Mc8Claud/Papirus-RU">Alex Mc8Claud
 
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/Papyrus-RU.png"/>
+<img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/font-awesome.jpg"/>
 <img src="https://github.com/Mc8Claud/Papirus-RU/blob/master/images/texts.jpg"/>
