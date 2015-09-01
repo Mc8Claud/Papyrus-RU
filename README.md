@@ -7,8 +7,7 @@
 
 ## Hello!
 #### Here you can absolutelly free download
- very popular and beautifull font  "Papyrus" with cyrillic letters 
- (for Russian and Ucrainian languages) 
+#### very popular and beautifull font  "Papyrus" with cyrillic letters (for Russian and Ucrainian languages) ####
 From my heart)
 #### The name of this font: "Papyrus-RU"
 presents formats:
@@ -23,15 +22,14 @@ presents formats:
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Download all formats (if you want)
 
-###### and who it need - converted these formats to .CSS
+#### and who it need - converted these formats to .CSS
  
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Download .CSS
 
-Good news for those who use plagin <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">"Font Changer" for Google Chrome
+####Good news for those who use plagin <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">"Font Changer" for Google Chrome####
 
-Specially for you I have added all characters from the iconic font and CSS toolkit "Awesome" to font "Papyrus-RU", 
-this will allow you to enjoy the beauty and correct view of an infinite number of sites.
+####Specially for you I have added all characters from the iconic font and CSS toolkit "Awesome" to font "Papyrus-RU", this will allow you to enjoy the beauty and correct view of an infinite number of sites.####
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-Awesome.ttf.zip?raw=true">Download Papyrus-RU-Awesome! 
 
 
@@ -41,10 +39,9 @@ this will allow you to enjoy the beauty and correct view of an infinite number o
 ## Добрый день! 
  
 #### Здесь Вы можете совершенно бесплатно скачть 
-популярный и красивый шрифт Papyrus с добавленными в него русским и украинским алфавитами,
-изготовленными мной. 
+####популярный и красивый шрифт Papyrus с добавленными в него русским и украинским алфавитами,изготовленными мной. 
 #### Шрифт называется: Papyrus-RU
-В архиве шрифт представлен в форматах: 
+####В архиве шрифт представлен в форматах: ####
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU.zip?raw=true">Загрузить .ttf 
 
@@ -56,14 +53,13 @@ this will allow you to enjoy the beauty and correct view of an infinite number o
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-full.zip?raw=true">Загрузить весь архив (если вам это нужно)
 
-###### а также, для тех, кому необходимо сконвертированный в  .CSS
+#### а также, для тех, кому необходимо сконвертированный в  .CSS####
 
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/css/fonts/Papyrus-RU-Regular-in-CSS.zip?raw=true">Загрузить  .CSS
  
-Хорошая новость для тех кто использует расширение <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">Font Changer для Google Chrome
+####Хорошая новость для тех кто использует расширение <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">Font Changer для Google Chrome
 
-Специально для вас я добавил содержание символьного шрифта Awesome в шрифт Papyrus-RU, 
-это позволит вам наслаждаться красотой и корректным видом бесконечного множества сайтов.
+####Специально для вас я добавил содержание  шрифта иконок "Awesome" в шрифт Papyrus-RU, это позволит вам наслаждаться красотой и корректным видом бесконечного множества сайтов.####
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-Awesome.ttf.zip?raw=true">Загрузить Papyrus-RU-Awesome! 
 
 #### Наслаждайтесь!
