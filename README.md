@@ -30,7 +30,7 @@ presents formats:
 
 Good news for those who use plagin <a href="https://chrome.google.com/webstore/detail/font-changer-with-google/jgjhhoglgjdklldfgoffdiaceffijeke">"Font Changer" for Google Chrome
 
-Specially for you I have added all characters from simbol font "Awesome" to font "Papyrus-RU", 
+Specially for you I have added all characters from the iconic font and CSS toolkit "Awesome" to font "Papyrus-RU", 
 this will allow you to enjoy the beauty and correct view of an infinite number of sites.
 <a href= "https://github.com/Mc8Claud/Papirus-RU/blob/master/fonts/Papyrus-RU-Awesome.ttf.zip?raw=true">Download Papyrus-RU-Awesome! 
 
